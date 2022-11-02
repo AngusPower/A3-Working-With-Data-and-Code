@@ -1,1 +1,13 @@
+Hi there, 
+
 This is the Git Hub for my A3 Project. 
+
+There are three files present. 
+
+The file named Power_Angus_A3Project is the code for the system written in Python that runs through Idle. Although, it can be run through any python supporting software.
+
+There are also two JSON files which store the relevent data about products and purchase history.
+These files are not essential, as the code should create a new JSON file if it cannot  find one. However, they can be used to show the exact steps i took in the video. 
+
+Regards,
+Angus Power.
