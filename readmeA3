@@ -9,5 +9,10 @@ The file named Power_Angus_A3Project is the code for the system written in Pytho
 There are also two JSON files which store the relevent data about products and purchase history.
 These files are not essential, as the code should create a new JSON file if it cannot  find one. However, they can be used to show the exact steps i took in the video. 
 
+The project also requires software libraries:
+- Pandas
+- Json
+- Os.Path
+
 Regards,
 Angus Power.
